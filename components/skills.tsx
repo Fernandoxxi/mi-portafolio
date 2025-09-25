@@ -32,7 +32,8 @@ export default function Skills() {
   return (
     <section
       id="habilidades"
-      className="relative min-h-screen flex flex-col items-center bg-gradient-to-b from-gray-100 to-gray-200 dark:from-slate-950 dark:to-slate-900 py-20"
+      className="relative min-h-screen flex flex-col items-center  bg-gradient-to-b from-gray-100 to-gray-200
+    dark:from-slate-900 dark:to-slate-950 py-20"
     >
       <motion.h2
         variants={item}

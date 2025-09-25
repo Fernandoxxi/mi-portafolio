@@ -43,7 +43,8 @@ export default function Projects() {
   return (
     <section
       id="proyectos"
-      className="relative min-h-screen flex items-center bg-gradient-to-b from-gray-200 to-gray-100 dark:from-slate-950 dark:to-slate-900"
+      className="relative min-h-screen flex items-center  bg-gradient-to-b from-gray-100 to-gray-200
+    dark:from-slate-900 dark:to-slate-950"
     >
       <motion.div
         variants={container}
