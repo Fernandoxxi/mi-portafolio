@@ -63,4 +63,4 @@
 
 ---
 
-> “El buen diseño no es solo cómo se ve, sino cómo funciona.” – Steve Jobs
+> “El buen diseño no es solo cómo se ve, sino cómo funciona.” – Steve Jobs.
