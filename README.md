@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌟 Portafolio de Fernando
 
-## Getting Started
+¡Hola! Soy **Fernando**, un desarrollador frontend apasionado por crear experiencias web **atractivas, interactivas y funcionales**. Este es mi espacio para mostrar mis proyectos, habilidades y cómo contactarme. 🚀
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👨‍💻 Sobre mí
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 📍 Ubicación: Ventanilla, Perú
+- 💻 Especialidad: Desarrollo Frontend con **React**, **Tailwind CSS** y **JavaScript moderno**
+- 🎯 Objetivo: Crear aplicaciones web responsivas, con buen diseño y excelente experiencia de usuario
+- 🛠 Me encanta: Animaciones, UI/UX, optimización y aprender nuevas tecnologías
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🏆 Habilidades destacadas
 
-## Learn More
+| Frontend | Diseño & Animaciones | Herramientas |
+|----------|-------------------|--------------|
+| React.js | Tailwind CSS       | Git & GitHub |
+| JavaScript ES6+ | Framer Motion | VSCode |
+| HTML5 & CSS3 | Responsive Design | Figma / Prototipos |
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 💡 Proyectos destacados
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 1️⃣ Sistema de Reservas Hoteleras – **InnGenix**
+- **Descripción:** Prototipo frontend para gestionar reservas de hotel.
+- **Tecnologías:** React, Tailwind CSS
+- **Funcionalidades:** UI responsiva, validaciones y animaciones
+- [Ver proyecto](https://github.com/Fernandoxxi/InnGenix)  
 
-## Deploy on Vercel
+### 2️⃣ INCAPZ – App de Estimulación Cognitiva
+- **Descripción:** Aplicación interactiva para estimular la memoria y habilidades cognitivas.
+- **Tecnologías:** React, Tailwind CSS, Framer Motion
+- [Ver proyecto](https://github.com/Fernandoxxi/INCAPZ)  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+*(Puedes agregar más proyectos aquí con la misma plantilla)*
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🌐 Mi portafolio en línea
+
+¡Mira mi portafolio completo en vivo!  
+[🌐 Fernando Portafolio](https://fernandox-portafolio.vercel.app/)  
+
+---
+
+## 📫 Contacto
+
+- ✉️ Correo: [manriquefernando2104@gmail.com](mailto:manriquefernando2104@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/fernandoxmanrique](https://www.linkedin.com/in/fernandoxmanrique)  
+
+---
+
+## ⚡ Extras
+
+- 🌈 Animaciones suaves con Framer Motion  
+- 🎨 Diseño limpio y moderno con Tailwind CSS  
+- 📱 Totalmente responsivo (móvil, tablet, desktop)  
+- 🚀 Listo para producción  
+
+---
+
+> “El buen diseño no es solo cómo se ve, sino cómo funciona.” – Steve Jobs
