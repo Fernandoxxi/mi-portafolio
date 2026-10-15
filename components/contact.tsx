@@ -19,7 +19,7 @@ import {
 const EMAILJS_CONFIG = {
   SERVICE_ID: 'service_xk961fe',
   TEMPLATE_ID: 'template_6ljzgfy',
-  PUBLIC_KEY: 'Q07qukCV5oVqRnut5'
+  PUBLIC_KEY: 'wqQSz7nb12WxRVBJ_'
 };
 
 const container: Variants = {
